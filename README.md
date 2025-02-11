@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**HamnaKhan26/HamnaKhan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile! 👩‍💻✨
+Hi there! I'm Hamna Khan, a passionate and driven web developer with a love for creating dynamic, user-friendly applications. With a strong background in full-stack development, I specialize in building scalable web applications using Node.js and modern web technologies.
 
-Here are some ideas to get you started:
+🌱 I’m constantly learning and exploring new frameworks, libraries, and tools. I am also a strong advocate for open-source contributions and believe in the power of community-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ When I'm not coding, you can find me engaging with fellow developers, participating in tech communities, or working on personal projects to push my limits.
+
+- 🔭 I’m currently working on **Node.js projects**
+- 🌱 I’m learning **advanced backend techniques**
+- 👯 I’m looking to collaborate on **open-source Node.js projects**
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamna-faisal-4460aa17b/)
+
+## Skills
+- JavaScript (Node.js)
+- Java
+- VueJS
+- TypeScript
+- Express.js
+- MongoDB
+- Git & GitHub
+
