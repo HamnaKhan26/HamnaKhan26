@@ -12,12 +12,8 @@ Hi there! I'm Hamna Khan, a passionate and driven web developer with a love for 
 - 👯 I’m looking to collaborate on **open-source Node.js projects**
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamna-faisal-4460aa17b/)
 
-## Skills
-- JavaScript (Node.js)
-- Java
-- VueJS
-- TypeScript
-- Express.js
-- MongoDB
-- Git & GitHub
 
+🛠️ Technical Skills
+Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js
+Backend: Node.js, Java
+Databases: SQL Server, MongoDB
