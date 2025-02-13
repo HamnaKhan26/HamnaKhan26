@@ -13,7 +13,7 @@ Hi there! I'm Hamna Khan, a passionate and driven web developer with a love for 
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/hamna-faisal-4460aa17b/)
 
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 Frontend: HTML, CSS, JavaScript, TypeScript, Vue.js
 Backend: Node.js, Java
 Databases: SQL Server, MongoDB
